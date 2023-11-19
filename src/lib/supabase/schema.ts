@@ -14,3 +14,4 @@ export const workspaces = pgTable('workspaces',{
     logo: text('logo').notNull(),
     bannerUrl: text('banner_url').notNull(),
 });
+
