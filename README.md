@@ -1,19 +1,16 @@
 <h1 align="center">TeamSyncTrack</h1>
-
-[![License: CC](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/iamrealpalash/TeamSyncTrack)](https://github.com/iamrealpalash/TeamSyncTrack/releases)
-
-<p align="center">    
-    <img src=https://img.shields.io/github/license/iamrealpalash/TeamSyncTrack>  
+<div align="center">
+    
+<p align="center">
+    <img alt="License" src="https://img.shields.io/badge/License-CC-yellow.svg">
     <a href="http://makeapullrequest.com" target="_blank"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
     <img alt="GitHub Forks" src="https://img.shields.io/github/forks/iamrealpalash/TeamSyncTrack">
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/iamrealpalash/TeamSyncTrack">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/iamrealpalash/TeamSyncTrack">
-    <img alt="Hacktoberfest issues" src="https://img.shields.io/github/hacktoberfest/2023/iamrealpalash/TeamSyncTrack">
-    <img alt="Contributor over time" src="https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=iamrealpalash/TeamSyncTrack">
-    <img alt="Repo-size" src="https://img.shields.io/github/repo-size/iamrealpalash/TeamSyncTrack">
-    <img alt="Release" src="https://github.com/iamrealpalash/TeamSyncTrack/releases">
     <img alt="Release" src="https://img.shields.io/github/v/release/iamrealpalash/TeamSyncTrack">
+    <img alt="Repo-size" src="https://img.shields.io/github/repo-size/iamrealpalash/TeamSyncTrack">
 </p>
+</div>
 <br>
 
 <h2 align="center">What is TeamSyncTrack?</h2>
@@ -22,11 +19,11 @@
 
 <div  align="center" >
 <a href="https://https://github.com/iamrealpalash/TeamSyncTrack"><img alt="C" src="https://img.shields.io/badge/Production%20Release-07C160?style=for-the-badge&logo=vercel&logoColor=white"></a> <a href="https://github.com/sponsors/iamrealpalash"><img alt="Sponsor Palash" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
-
-    
 </div>
-
 <br>
+<div align="center">
+    <img alt="Contributor over time" src="https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=iamrealpalash/TeamSyncTrack">
+</div>
 
 # Tech Stack (Frontend) 💻
 
