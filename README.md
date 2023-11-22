@@ -18,7 +18,7 @@
 
 
 <div  align="center" >
-<a href="https://https://github.com/iamrealpalash/TeamSyncTrack"><img alt="C" src="https://img.shields.io/badge/Production%20Release-07C160?style=for-the-badge&logo=vercel&logoColor=white"></a> <a href="https://github.com/sponsors/iamrealpalash"><img alt="Sponsor Palash" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
+<a href="https://github.com/iamrealpalash/TeamSyncTrack"><img alt="C" src="https://img.shields.io/badge/Production%20Release-07C160?style=for-the-badge&logo=vercel&logoColor=white"></a> <a href="https://github.com/sponsors/iamrealpalash"><img alt="Sponsor Palash" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
 </div>
 <br>
 <div align="center">
