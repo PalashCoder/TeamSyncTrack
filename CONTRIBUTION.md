@@ -1,24 +1,3 @@
-
-<!-- TOC -->
-
-- [How to contribute](#How_to_contribute)
-  - [Commits 👮](#commits-)
-      - [Commit Message Format 🔐](#commit-message-format-)
-      - [ESLint \& Prettier ✨](#eslint--prettier-)
-  - [Issues 👮](#issues-)
-      - [Creating an issue 📝](#creating-an-issue-)
-      - [Working on an Issue 🛠️](#working-on-an-issue-️)
-      - [Closing an Issue 📌](#closing-an-issue-)
-  - [Pull requests 👮](#pull-requests-)
-      - [Creating a Pull Request 📝](#creating-a-pull-request-)
-      - [Pull Request Title Format 🔐](#pull-request-title-format-)
-      - [Reviewing a Pull Request 📌](#reviewing-a-pull-request-)
-        - [DOs](#dos)
-        - [DON'Ts](#donts)
-        - [NOTE](#note)
-
-<!-- /TOC -->
-
 # How to contribute
 If you are new to open-source contribution and don't know how to get started, don't worry, this is a deatiled step by step guide to help you make your first contribution.
 
@@ -43,9 +22,8 @@ Here, replace `<copied-url>` with the url of the forked repository you just copi
 
 After cloning the repository, change the current working directory to the repository directory by running the following command:
 
-
 ```
-cd s3
+cd TeamSyncTrack
 ```
 Before making any changes, make sure to always create a new branch. To create a new brach run the following command:
 
@@ -54,7 +32,7 @@ git checkout -b branch-name
 ```
 You can run `git branch` command to check your branch status.
 
-## Start the server
+## Install all the dependencies Start the server
 
 After successfully making a branch, run the project by using the following commands:
 
@@ -72,12 +50,22 @@ yarn run dev
 
 ## Make changes
 
-Now you are all set to make changes. For that you can use any text editor, but I will recommend using Vs Code as it feature rich and easy to use. If VS Code is already installed on your machine, run the following command:
+Now you are all set to make changes. For that you can use any text editor, but I will recommend using Vs Code and Atom as it feature rich and easy to use. If VS Code or Atom is already installed on your machine, run the following command:
+
+### For VS Code
 
 ```
 code .
 ```
-It will open all the files in VS Code.
+
+### For Atom
+```
+atom .
+```
+
+It will open all the files in VS Code or Atom (which you opened).
+
+## Now make chganges which you want to change for contribution.
 
 After making the changes, run `git status` command. It will show you all the changes you have made.
 
@@ -85,7 +73,7 @@ After making the changes, run `git status` command. It will show you all the cha
 
 Try and make small commits, it will be easier for us to review and merge them and also it will be easier for you to fix any errors if there are any.
 
-#### Commit Message Format 🔐
+## Commit Message Format 🔐
 
 The commit message should be in the format of `type(scope): subject` where the `scope` is optional `type` is one of the following:
 
@@ -99,14 +87,16 @@ The commit message should be in the format of `type(scope): subject` where the `
 
 ## Commit those changes
 
-Now, before commiting the changes you will have to add those changes to the branch you created. For that run the following command:
+Now, before commiting the changes you will have to add those changes to the staging area of the branch you have created. For that run the following command:
+
 ```
 git add .
-````
+```
 Now commit those changes by running the following command:
+
 ```
 git commit -m "put-your-message-here"
-
+```
 
 ## Push to GitHub
 
@@ -118,31 +108,21 @@ git push origin -u <your-branch-name>
 
 Replace `<your-branch-name>` with the name of the branch you created earlier.
 
+### If the code not pushed then chech there will be a upstream in the error oce copy it and paste it on terminal now all fine.
+
 ## Submit the pull request
 
 Now open your browser, here you will see a notification. Juslt click on **compare & pull request**.
 
-Now submit the pull request.
+Now submit the pull request with proper name and message where you explained about your changes and also you can include pictures or videos to make it more clear to the maintainer.
 
 Soon your pull request will be reviewed and merged. You will be notified via email once your pull request has been merged.
 
 Congratulations!! You have successfully raised your first pull request. Share on your socials.
 
-<br>
-
-#### For more information on how to contribute to open source projects, check out this [link](https://opensource.guide/how-to-contribute/) and [this](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and "How to Contribute to Open Source" by [freeCodeCamp](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects/).
-
-#### ESLint & Prettier ✨
-
-We are using `pre-commit hooks` and `linting packages` to make sure that the code is in the correct format. 
-
-So whenever you try and make any commit, it will automatically run the `linting` and `prettier` on the staged/changed files and if there are any errors, it will not let you commit the code until you fix those.
-
-Some of them are automatically fixed, while some need manual fixing.
 
 ---
 ## Issues 👮
-
 
 #### Creating an issue 📝
 
@@ -172,7 +152,7 @@ Some of them are automatically fixed, while some need manual fixing.
 
 #### Creating a Pull Request 📝
 
-- Do not raise a PR if you are not assigned to the issue. Do not try and make spam pull requests as you might be **banned** from the organization.
+- Do not raise a PR if you are not assigned to the issue. Do not try and make spam pull requests as you might be **banned** from the the owner.
 - Whenever making a Pull request, make sure you fill up the fields properly.
 - We use `Lint PR title` workflow which makes sure that the PR titles are in the correct format. If you are not sure about the format, you can check the `Pull Request Title Format` section below.
 
@@ -220,6 +200,9 @@ We welcome everyone to review Pull Requests, it is a great way to learn and netw
 - If the tests are failing due to some internal error on our side, **ignore it.**
 - Merging and reviewing the PRs takes time, so please be patient.
 
+<br>
+
+#### For more information on how to contribute to open source projects, check out this [link](https://opensource.guide/how-to-contribute/) and [this](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and "How to Contribute to Open Source" by [freeCodeCamp](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects/).
 
 
 ### Thanks for Contributing :tada:
