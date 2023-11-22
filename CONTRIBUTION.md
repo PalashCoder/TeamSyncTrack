@@ -47,6 +47,9 @@ npm run dev
 yarn
 yarn run dev
 ```
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 ## Make changes
 
@@ -110,6 +113,11 @@ Replace `<your-branch-name>` with the name of the branch you created earlier.
 
 ### If the code not pushed then chech there will be a upstream in the error oce copy it and paste it on terminal now all fine.
 
+
+## If you're Working on an ISSUE or want to report on an ISSUE then must read this
+[Issue](ISSUE.md)
+
+## Pull requests 👮
 ## Submit the pull request
 
 Now open your browser, here you will see a notification. Juslt click on **compare & pull request**.
@@ -120,35 +128,6 @@ Soon your pull request will be reviewed and merged. You will be notified via ema
 
 Congratulations!! You have successfully raised your first pull request. Share on your socials.
 
-
----
-## Issues 👮
-
-#### Creating an issue 📝
-
-- There are different types in the issues section such as `Bug` , `Documentation` , `Feature` . You can choose, or create any of the types of issues.
-- In case you need to create something else, you can use the `Other` type. Blank issues are not recommended at all.
-- When creating an issue make sure you fill up the fields properly and also make sure that you are **not raising a duplicate issue.**
-- The `labels` are used to categorize the issues and they will be automatically added based on the type of issue you are creating.
-
-#### Working on an Issue 🛠️
-
-- Only ask to be assigned 1 issue at a time.
-- **Do not** enable GitHub Actions on your fork
-- You can assign yourself to an issue if you want to work on it by checking the `I am willing to work on this issue (blank for no)` checkbox.
-- In case someone else has left that box empty, you can assign yourself to that issue by commenting `I would like to work on this issue` on that issue.
-- We assign on a **first come first serve basis**.
-
-
-#### Closing an Issue 📌
-
-- If you are the one who has created the issue and want to close it you can close it by yourself.
-- If you are working on the issue, you can reference the issue in the pull request in `closes #issue_number` format & the issue will be closed automatically when the PR is merged.
-
-
----
-
-## Pull requests 👮
 
 #### Creating a Pull Request 📝
 
@@ -199,6 +178,8 @@ We welcome everyone to review Pull Requests, it is a great way to learn and netw
 - Make sure there are no `failed` checks in the pull request. If there are any failed checks, you can click on the `Details` button to see the logs and fix the errors.
 - If the tests are failing due to some internal error on our side, **ignore it.**
 - Merging and reviewing the PRs takes time, so please be patient.
+- If you want to work on the backend then contact me through any of my social media.
+- If you have any problem related to database or drizzle or any backend related problem then please go to [.env.example](.env.example) and put all the details of your .env file on the projects root from your own supabase postgres database, as you're working your own so you'll not having any privacy problem or and excessive data so work without any tension.
 
 <br>
 
