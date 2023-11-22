@@ -27,7 +27,7 @@
 
 <div align="center">
     
-# Tech Stack  💻
+## Tech Stack  💻
 
 <p >
     <a href="https://nextjs.org/"><img alt="C" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
@@ -46,39 +46,40 @@
     
 
 </p>
+</div>
 
 </br>
 
-# Contributing to TeamSyncTrack 🔐
+## Contributing to TeamSyncTrack 🔐
 
 Remember, Good PR makes you a Good contributor !
 
 Please Read the [Contribution](CONTRIBUTION.md) guilines before you're fully engaged into work. Now request titles and commits. Without a proper template for the PR, not following the guidelines and spam might get the pull request closed, or banned.
 
-# There are a few Types of contributor, Let Make all step for everyone.
+## There are a few Types of contributor, Let Make all step for everyone.
 
-## 1️. You've Seen an issue and now want to fix it.
+### 1️. You've Seen an issue and now want to fix it.
 
 Then first read, the following guidelines:-
 [Issue](ISSUE.md) & [Contribution](CONTRIBUTION.md)
 
-## 2️. You've seen any issue to the project & now want to raise it.
+### 2️. You've seen any issue to the project & now want to raise it.
 
 Then first read, the following guidelines:-
 [Issue](ISSUE.md) 
 
-## 3. You're only want to take the code clone and find issue and fix it on your local.
+### 3. You're only want to take the code clone and find issue and fix it on your local.
 
 Then first read, the following guidelines:-
 [Contribution](CONTRIBUTION.md)
 
 
-# License 👮
+## License 👮
 
 TeamSyncTrack is Licensed under the <a href="./LICENSE">CC License</a>. Please go through the License at least the first 14 lines before contributing.
 
-# Support 🙏
+## Support 🙏
 
 **Don't forget to drop a star ⭐.** A heartfelt thank you to those who have contributed to this project. We are really grateful for your contribution. You all are amazing. Opensource for the win 🚀
 
-</div>
+
