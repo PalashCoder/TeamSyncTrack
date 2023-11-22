@@ -25,7 +25,9 @@
     <img alt="Contributor over time" src="https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=iamrealpalash/TeamSyncTrack">
 </div>
 
-# Tech Stack (Frontend) 💻
+<div align="center">
+    
+# Tech Stack  💻
 
 <p >
     <a href="https://nextjs.org/"><img alt="C" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
@@ -78,3 +80,5 @@ TeamSyncTrack is Licensed under the <a href="./LICENSE">CC License</a>. Please g
 # Support 🙏
 
 **Don't forget to drop a star ⭐.** A heartfelt thank you to those who have contributed to this project. We are really grateful for your contribution. You all are amazing. Opensource for the win 🚀
+
+</div>
