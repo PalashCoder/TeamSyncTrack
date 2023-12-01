@@ -26,8 +26,8 @@ const HomePage = () => {
                 sm:flex-col
                 gap-4 
                 md:justify-center
-                md:items-center'>
-                <TitleSection pill='Perfect WorkSpace' title='Your own Build Workspace is here....' />
+                md:items-center' id='introduction'>
+                <TitleSection pill='Perfect WorkSpace' title='Build Workspace for a Productive Team..' />
                 <div
                     className='bg-white 
                     p-[2px] 
@@ -38,7 +38,7 @@ const HomePage = () => {
                   dark:from-brand-primaryBlue
                   dark:to-brand-primaryPurple
                     sm:w-[300px]'>
-                    <Button variant="btn-secondary" className='w-full rounded-[10px] p-6 text-2xl'>
+                    <Button variant="btn-secondary" className='w-full rounded-[10px] p-6 text-2xl bg-background'>
                         Get Started For Free
                     </Button>
                 </div>
@@ -144,7 +144,7 @@ const HomePage = () => {
                     />
                 </div>
             </section>
-            <section className="relative">
+            <section className="relative" id='testimonials'>
                 <div
                     className="w-full
                     blur-[120px]
@@ -216,7 +216,7 @@ const HomePage = () => {
                     ))}
                 </div>
             </section>
-            <section className="mt-20 px-4 sm:px-6">
+            <section className="mt-20 px-4 sm:px-6" id='pricing'>
                 <TitleSection
                     title="The Perfect Plan For You"
                     subheading="Experience all the benefits of our platform. Select a plan that suits your needs and take your productivity to new heights."
