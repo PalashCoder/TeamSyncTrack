@@ -38,12 +38,12 @@ const HomePage = () => {
                   dark:from-brand-primaryBlue
                   dark:to-brand-primaryPurple
                     sm:w-[300px]'>
-                    <Button variant="btn-secondary" className='w-full rounded-[10px] p-6 text-2xl bg-background dark:text-white'>
-                        Get TeamSyncTrack Free
+                    <Button variant="btn-secondary" className='w-full rounded-[10px] p-6 text-2xl'>
+                        Get Started For Free
                     </Button>
                 </div>
                 <div
-                    className='md:mt-[-90px]
+                    className='md:mt-[-25px]
                     sm:w-full
                     w-[750px]
                     flex
@@ -301,12 +301,12 @@ const HomePage = () => {
                                         {card.description}
                                     </p>
                                     {card.planType === PRICING_PLANS.masterplan ?
-                                        <button className='w-full mt-4 p-1.5 rounded-sm whitespace-nowrap hover:text-black dark:bg-gradient-to-t dark:from-[#6038e3] dark:to-[#3341f7] dark:text-primary-foreground border hover:border-primary dark:border-[#464553] dark:hover:bg-accent hover:bg-primary dark:hover:border-muted-foreground text-lg font-normal dark:text-white'>
+                                        <button className='w-full mt-4 p-1.5 rounded-lg whitespace-nowrap hover:text-black dark:bg-gradient-to-t dark:from-[#6038e3] dark:to-[#3341f7] dark:text-primary-foreground border hover:border-primary dark:border-[#464553] dark:hover:bg-accent hover:bg-primary dark:hover:border-muted-foreground text-lg font-normal dark:text-white'>
                                             Contact Us
                                         </button>
                                         : <Button
                                             variant="btn-primary"
-                                            className="whitespace-nowrap w-full mt-4 dark:text-white"
+                                            className="whitespace-nowrap w-full mt-4"
                                         >
                                             {card.planType === PRICING_PLANS.freeplan
                                                 ? 'Get Started'
