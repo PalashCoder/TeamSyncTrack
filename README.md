@@ -4,11 +4,6 @@
 <p align="center">
     <img alt="License" src="https://img.shields.io/badge/License-CC-yellow.svg">
     <a href="http://makeapullrequest.com" target="_blank"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
-    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/iamrealpalash/TeamSyncTrack">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/iamrealpalash/TeamSyncTrack">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/iamrealpalash/TeamSyncTrack">
-    <img alt="Release" src="https://img.shields.io/github/v/release/iamrealpalash/TeamSyncTrack">
-    <img alt="Repo-size" src="https://img.shields.io/github/repo-size/iamrealpalash/TeamSyncTrack">
 </p>
 </div>
 <br>
