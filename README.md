@@ -1,4 +1,4 @@
-<h1 align="center">TeamSyncTrack</h1>
+<h1 align="center">TeamSyncTrack(INCOMPLETE PROJECT)</h1>
 <div align="center">
     
 <p align="center">
