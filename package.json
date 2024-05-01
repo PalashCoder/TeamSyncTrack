@@ -24,7 +24,7 @@
     "@supabase/supabase-js": "^2.41.1",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
-    "dotenv": "^16.3.1",
+    "dotenv": "^16.4.5",
     "drizzle-orm": "^0.29.0",
     "lucide-react": "^0.321.0",
     "next": "14.0.3",
